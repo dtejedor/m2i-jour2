@@ -1,0 +1,6 @@
+# Config
+config.yaml
+
+# Logs
+logs/*
+!logs/.gitkeep
